@@ -1,5 +1,5 @@
 rm(list=ls())
-setwd("~/work/OTHERS/timo/kohordid")
+setwd("~/work/OTHERS/timo/kohordid")  # Kaust kust andmed võtta  - muuda ära selleks kus kaustas sul file on!
 library(mixdist)
 load("timo_kohordid_2014_2019.RData")  
 
